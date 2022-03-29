@@ -1,7 +1,7 @@
 print("give me a bottle of rum!")
 
-firstname = 2
-secondname = 4
-total = firstname + secondname
+fname = 2
+sname = 4
+total = fname + sname
 
 print(total)
